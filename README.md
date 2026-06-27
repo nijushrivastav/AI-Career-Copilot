@@ -5,6 +5,8 @@ AI Career Copilot is an AI-powered Resume Analysis and Career Guidance web appli
 The application helps users analyze resumes, calculate ATS scores, identify missing skills, generate career roadmaps, provide interview questions, maintain report history, and download professional PDF reports.
 
 ---
+## Live Demo
+https://ai-career-copilot-zz56.onrender.com/login
 
 ## Features
 
